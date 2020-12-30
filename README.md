@@ -3,12 +3,12 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 TODO: Put more badges here.
 
-Module for [Proselint]https://github.com/amperser/proselint that checks for American English spellings and suggests British English replacments.
+Module for [Proselint](https://github.com/amperser/proselint) that checks for American English spellings and suggests British English replacments.
 
 
 ## Install
 
-Place `spelling_usa` folder into the `./proselint/checks` folder.
+Place `spelling_usa` folder into the `./proselint/checks` folder.  
 Put `"spelling_usa.main": true` into your Proselint config file.
 
 ## Usage
